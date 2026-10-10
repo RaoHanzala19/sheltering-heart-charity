@@ -4,6 +4,8 @@ A multi-page charity website for an orphanage, where visitors can learn about th
 
 Built with **HTML, CSS, JavaScript, Bootstrap and jQuery** as an Aptech e-project.
 
+🔗 **Live demo:** https://raohanzala19.github.io/sheltering-heart-charity/
+
 > 📸 _Screenshots coming soon_
 
 ---
@@ -39,6 +41,8 @@ All site files are in the `Hassan vision 2/VISION 2ND REVIEW MEETING/` folder.
 ## 🚀 Run it locally
 
 No build step. Clone the repo and open `index.html` (inside the folder above) in your browser.
+
+The live site is deployed automatically to GitHub Pages on every push to `main` (see `.github/workflows/deploy-pages.yml`).
 
 ```bash
 git clone https://github.com/RaoHanzala19/sheltering-heart-charity.git
