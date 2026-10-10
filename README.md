@@ -50,4 +50,4 @@ git clone https://github.com/RaoHanzala19/sheltering-heart-charity.git
 
 ---
 
-👤 **Rao Muhammad Hanzala** · [GitHub](https://github.com/RaoHanzala19) · raohanzala457@gmail.com
+👤 **Rao Muhammad Hanzala** · [GitHub](https://github.com/RaoHanzala19) · raohanzala513@gmail.com
